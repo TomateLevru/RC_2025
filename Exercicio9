@@ -1,0 +1,7 @@
+A)
+Oque acontece é que o os dados enviados podem não chegar ou pode ter interferecias entre dados
+B)
+Com o switch os dados são sempre enviados corretamente ao contrario do HUB e é muito menos provavel de ter interferencias entre dados
+C)
+Hub Vantagens: Simples de usar e barato. Desvantagens: Pouca eficiência e pode gerar congestionamento. Switch Vantagens: Direcionamento
+eficiente e desempenho superior. Desvantagens: Custo mais elevado que o hub.
