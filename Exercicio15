@@ -1,0 +1,33 @@
+
+Protocolo |  Função principal       | Camada do modelo TCP/IP     | Exemplo de utilização            |
+----------|-------------------------|-----------------------------|----------------------------------|
+HTTPS     | proteger dados sensíveis| no modelo de rede descrito  | Um exemplo é o google chrome.    |
+          |                         | pelo conjunto de protocolos | Exemplo: https://www.google.com/ |
+          |                         | da internet.                |                                  |
+----------|-------------------------|-----------------------------|----------------------------------|
+          | permite que os dados    | aplicação, transporte,      | Por exemplo, aplicativos como    |
+TCP       | sejam transferidos entre| rede e interface.           | bancos de dados, navegadores e   |
+          | aplicativos e           | camada mais acima no modelo | clientes de e-mail, exigem que   |
+          |dispositivos em uma rede | de rede.                    | todos os dados enviados cheguem  |
+          |                         |                             | no destino em seu estado original|
+----------|-------------------------|-----------------------------|----------------------------------|       -----------------> A professora falo que me da 3 valores por causa ta tabela!
+DNS       | traduzir os nomes de    |  Camada 7                   | o DNS para acessar o site da     | 
+          | domínio                 |                             | Locaweb, basta digitar           |
+          |                         |                             | “www.locaweb.com.br” em seu      |
+          |                         |                             | navegador. Do lado do usuário,   |
+          |                         |                             | o trabalho termina aqui.         |
+----------|-------------------------|-----------------------------|----------------------------------|
+ICMP      | etransmitir mensagens   |utilizado para comunicar     | Ele fornece um mecanismo         |
+          | de controle e de erro   |informações da camada de rede| padronizado para que os          |
+          |                         |                             | dispositivos de rede comuniquem  |
+          |                         |                             | informações vitais, como         |
+          |                         |                             | conectividade e status da rede.  |
+----------|-------------------------|----------------------------------------------------------------|
+          | transferir ficheiros de |é um protocolo da camada     | Não deu tempo para acabar        |
+FTP       | forma rápida e segura   |de aplicação do TCP/IP que   |                                  |
+          | entre um anfitrião local|utiliza duas conexões.       |                                  | 
+          | e um anfitrião remoto.  |                             |                                  |
+----------|-------------------------|-----------------------------|----------------------------------|
+
+
+
